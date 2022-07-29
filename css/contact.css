@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+  background-color: white;
+  text-align: center;
+  font-family: sans-serif;
+
+}
+.top-container{
+  background: #AFDCDF;
+  margin: 0;
+  padding: 100px;
+  padding-bottom: 0;
+  padding-top: 20px;
+  position: relative;
+}
+ul {
+top: 0;
+width: 94%;
+list-style-type: none;
+margin: 0;
+padding: 0;
+padding-top: 15px;
+overflow: hidden;
+}
+
+li {
+float: left;
+
+}
+a{
+  font-family: sans-serif;
+}
+li a {
+display: inline-block;
+color: black;
+text-align: center;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 20px;
+text-decoration: none;
+}
+
+li a::after {
+  content: "";
+  display: block;
+  margin: auto;
+  height: 3px;
+  width: 0;
+  top: 5px;
+  background: transparent;
+  transition: all 0.3s;
+}
+li a:hover::after, li a.active-nav::after {
+  width: 100%;
+  background: white;
+}
+.logo-image{
+   width: 46px;
+   height: 46px;
+   border-radius: 50%;
+   overflow: hidden;
+   margin-top: -6px;
+}
+.me{
+  float: left;
+  width: 90px;
+  padding-left: 100px;
+}
+
+.carousel{
+  margin: 50px;
+  width: 40%;
+  float: left;
+  height: auto;
+}
+.contact{
+  margin: 50px;
+  width: 500px;
+  float: right;
+  color: black;
+}
+.t1{
+  font-size: 40px;
+  font-family: "Rochester",sans-serif;
+}
+.p1{
+  background-color: #AFDCDF;
+  color: black;
+  padding: 100px;
+}
+.p2{
+  margin: 50px;
+  background-color: #AFDCDF;
+  color: black;
+  padding: 60px;
+}
