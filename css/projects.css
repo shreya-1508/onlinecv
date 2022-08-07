@@ -6,13 +6,12 @@ body{
   background-color: white;
   text-align: center;
   font-family: sans-serif;
-
 }
 .top-container{
   background: #AFDCDF;
   margin: 0;
   padding: 100px;
-  padding-bottom: 0;
+  padding-bottom: 20px;
   padding-top: 20px;
   position: relative;
 }
@@ -64,8 +63,8 @@ li a:hover::after, li a.active-nav::after {
    overflow: hidden;
    margin-top: -6px;
 }
-.me{
-  float: left;
-  width: 90px;
-  padding-left: 100px;
+.title{
+  padding-top: 80px;
+  font-family: "Rochester",sans-serif;
+  font-size: 50px;
 }
