@@ -113,3 +113,6 @@ li a:hover::after, li a.active-nav::after {
     text-align: center;
     padding: 80px;
 }
+.cert img{
+    width: 300px;
+}
