@@ -90,11 +90,13 @@ li a:hover::after, li a.active-nav::after {
   float: right;
   padding-right: 150px;
   background-color: #AFDCDF;
+  width: 40%;
 }
 .centered {
   top: 250%;
   left: 50%;
   text-align: center;
+  padding: 100px;
 }
 .centered img {
   width: 500px;
