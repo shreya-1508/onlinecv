@@ -98,5 +98,6 @@ li a:hover::after, li a.active-nav::after {
 }
 .centered img {
   width: 500px;
+  background-color: #AFDCDF;
 }
 
