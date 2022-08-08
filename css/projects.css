@@ -101,3 +101,15 @@ li a:hover::after, li a.active-nav::after {
   width: 350px;
 }
 
+.left1{
+    float: left;
+    background-color: white;
+}
+.right1{
+    float: right;
+    background-color: white;
+}
+.cert{
+    text-align: center;
+    padding: 80px;
+}
