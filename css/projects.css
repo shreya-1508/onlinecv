@@ -78,12 +78,7 @@ li a:hover::after, li a.active-nav::after {
   background-color: white;
 }
 
-.right {
-  float: right;
-  padding-right: 150px;
-  padding-top: 150px;
-  background-color: white;
-}
+
 .centered {
   float: left;
   top: 250%;
@@ -91,6 +86,5 @@ li a:hover::after, li a.active-nav::after {
   text-align: center;
 }
 .centered img {
-
   width: 500px;
 }
