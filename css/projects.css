@@ -89,7 +89,7 @@ li a:hover::after, li a.active-nav::after {
 .right {
   float: right;
   background-color: #AFDCDF;
-  font-size: 30px;
+  font-size: 5px;
 }
 .centered {
   top: 250%;
