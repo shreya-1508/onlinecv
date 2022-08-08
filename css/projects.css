@@ -83,13 +83,13 @@ li a:hover::after, li a.active-nav::after {
 
 .left {
   float: left;
-  background-color: #69BEC4;
+  background-color: #AFDCDF;
 }
 
 .right {
   float: right;
   padding-right: 150px;
-  background-color: #69BEC4;
+  background-color: #AFDCDF;
 }
 .centered {
   top: 250%;
