@@ -68,6 +68,12 @@ li a:hover::after, li a.active-nav::after {
   font-family: "Rochester",sans-serif;
   font-size: 50px;
 }
+
+.me{
+  float: left;
+  width: 90px;
+  padding-left: 100px;
+}
 .left {
   background-color: white;
 }
