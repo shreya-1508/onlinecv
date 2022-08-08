@@ -238,7 +238,7 @@ li a:hover::after, li a.active-nav::after {
 }
 
 .centered img {
-  width: 50px;
+  width: 10px;
   border-radius: 50%;
 }
 .split {
