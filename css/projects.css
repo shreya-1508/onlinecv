@@ -75,6 +75,13 @@ li a:hover::after, li a.active-nav::after {
   padding-left: 100px;
 }
 
+.phead{
+    float: center;
+    background-color: #AFDCDF;
+    padding: 100px;
+    color: white;
+}
+
 .left {
   background-color: white;
 }
