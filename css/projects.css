@@ -90,7 +90,7 @@ li a:hover::after, li a.active-nav::after {
   float: right;
   padding-right: 150px;
   background-color: #AFDCDF;
-  width: 40%;
+  font-size: 30px;
 }
 .centered {
   top: 250%;
