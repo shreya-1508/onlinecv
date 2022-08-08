@@ -71,7 +71,7 @@ li a:hover::after, li a.active-nav::after {
 
 .me{
   float: left;
-  width: 91px;
+  width: 90px;
   padding-left: 100px;
 }
 .left {
