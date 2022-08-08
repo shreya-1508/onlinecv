@@ -95,7 +95,7 @@ li a:hover::after, li a.active-nav::after {
   top: 250%;
   left: 50%;
   text-align: center;
-  padding: 50px;
+  padding: 70px;
 }
 .centered img {
   width: 500px;
