@@ -88,7 +88,6 @@ li a:hover::after, li a.active-nav::after {
 
 .right {
   float: right;
-  padding-right: 150px;
   background-color: #AFDCDF;
   font-size: 30px;
 }
@@ -96,7 +95,7 @@ li a:hover::after, li a.active-nav::after {
   top: 250%;
   left: 50%;
   text-align: center;
-  padding: 100px;
+  padding: 50px;
 }
 .centered img {
   width: 500px;
