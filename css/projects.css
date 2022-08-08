@@ -77,9 +77,8 @@ li a:hover::after, li a.active-nav::after {
 
 .phead{
     float: center;
-    background-color: #AFDCDF;
+    color: #AFDCDF;
     padding: 100px;
-    color: white;
 }
 
 .left {
